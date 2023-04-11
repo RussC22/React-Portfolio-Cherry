@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Project from "../Project";
+import Project from "./Project";
 import { Container, Row, Col } from "react-bootstrap";
 function Portfolio() {
   // name, description, deployedLink, githubLink, image {each project}

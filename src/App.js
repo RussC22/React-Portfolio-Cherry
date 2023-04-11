@@ -4,10 +4,10 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
-import About from "./components/pages/About";
-import Contact from "./components/pages/Contact";
-import Portfolio from "./components/pages/Portfolio";
-import Resume from "./components/pages/Resume";
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Portfolio from "./components/Portfolio";
+import Resume from "./components/Resume";
 
 function App() {
   const [currentPage, setCurrentPage] = useState("About");
