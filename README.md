@@ -30,6 +30,8 @@ SO THAT I can assess whether they're a good candidate for an open position
 ## Important Links
 [Deployed Site]()
 
+<img width="2022" alt="React-Portfolio" src="https://user-images.githubusercontent.com/114961971/231041627-02ca6ea3-9b58-44e2-af43-e95a1aee02d5.png">
+
 
 ## Technology Used
 
