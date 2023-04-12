@@ -19,6 +19,7 @@ function Project({ project }) {
               </a>
               <a href={githubLink} target="_blank" rel="noreferrer">
                 <i className="fab fa-github"></i>
+                <i class="fa-brands fa-github fa-spin fa-lg"></i>
               </a>
               <p className="fs-6">{description}</p>
             </div>
