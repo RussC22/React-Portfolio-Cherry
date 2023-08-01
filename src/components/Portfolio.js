@@ -21,16 +21,15 @@ function Portfolio() {
     //   githubLink: "https://github.com/RussC22/Text-Editor",
     //   image: "Text_Editor.png",
     // },
-    // {
-    //   name: "Social-Network-API",
-    //   description:
-    //     "This is an API for my social network that uses a NoSQL database",
-    //   demoVideoLink: "https://drive.google.com/file/d/1nTn_3mMy9QNPsr6BZo57RrHkIT0UfsCc/view",
-    //   githubLink: "https://github.com/RussC22/Social-Network-API",
-    //   image: "Social Network SS.png",
-    // },
     {
-      // Example
+      name: "Social-Network-API",
+      description:
+        "This is an API for my social network that uses a NoSQL database",
+      demoVideoLink: "https://drive.google.com/file/d/1nTn_3mMy9QNPsr6BZo57RrHkIT0UfsCc/view",
+      githubLink: "https://github.com/RussC22/Social-Network-API",
+      image: "Social-Network-API.png",
+    },
+    {
       name: "Note Taker",
       description:
         "An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.",
